@@ -66,7 +66,7 @@ class Backend_Api:
 
             headers = {
                 "Content-Type": "application/json",
-                "Authorization": "Bearer qQhUOBjNamjELp2g69ww8APeFD8FNHW8"  # Shared API key
+                "Authorization": "Bearer <API-KEY>"  # Shared API key
             }
 
             # Send request to the selected LlamaCPP server
